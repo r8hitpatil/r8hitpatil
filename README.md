@@ -4,7 +4,7 @@
 
 # Hey, I am <a href="https://www.linkedin.com/in/rohit-patil-486076254/" target="_blank">Rohit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
-<img alt="Developer Pic" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
+<img alt="Developer Pic" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif" width="350"/>
 
 <br/><br/>
 
