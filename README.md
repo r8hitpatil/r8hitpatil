@@ -29,6 +29,7 @@ I love building side projects. I focus on building useful tools and web apps tha
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="35" />
   <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB" width="48" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="55" alt="Firebase" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="48" />
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48" alt="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />
