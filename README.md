@@ -25,9 +25,9 @@ Loves to learn , loves to Develop
 <br/><br/>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48" alt="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" alt="Javascript" />
   <img alt="image" src="https://github.com/user-attachments/assets/008288af-a44e-4214-b7b4-658083f871d2" alt="Typescript" width=48" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48" alt="Java" />
 </p>
 
 <br/><br/>
